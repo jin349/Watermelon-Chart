@@ -6,4 +6,4 @@
 ‣ 파일2. database: 가져온 차트를 SQL에 저장<br>
 ‣ 파일3. gui: 서비스 화면을 구성<br>
 ‣ 파일4. main: 서비스 실행<br>
-‣ 파일5. mongodb: 앨범 재킷을 MongoDB에 저장<br>
+‣ 파일5. mongoDB: 앨범 재킷을 MongoDB에 저장<br>
